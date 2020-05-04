@@ -1,13 +1,15 @@
-Connected Devices
+# Connected Devices-Semester Project
+## Name and Course
+   ● Name: Naveen Rajendran
+   
+   ● Course: Connected Devices (CSYE-6530)
+   
+   ● Professor: Andrew King
+   
+   ● Semester and Year: Spring 2020
 
-Semester Project
-Name and Course
-● Name: Naveen Rajendran
-● Course: Connected Devices
-● Semester and Year: Spring 2020
-
-Project Description:
-Project Title: “IoT based live condition monitoring systems for electrical substations & industrial switchgears”
+## Project Description:
+## Project Title: “IoT based live condition monitoring systems for electrical substations & industrial switchgears”
 
  Electrical substations & switchgears serves as the power hub of continuous manufacturing industries & power-plants. They are functional 24x7 due to meet high demand in supply chain prevailing in market. These electrical power distribution systems deployed in current industries seems to be reliable, but in long term they may cause sudden catastrophic events like electrical short-circuiting, tripping & flashing due to lack of scheduled periodic maintenance of electrical feeders & organization’s negligence pertaining to continuous power-distribution. This project provides low cost reliable, remote & wireless monitoring solutions for electrical substations located at remote worksite. Parameters such as magnetic flux, ground resistivity, temperature inside power cabins & corona level will be monitored continuously, in order to avoid imminent power shutdown
 
@@ -15,7 +17,7 @@ Project Title: “IoT based live condition monitoring systems for electrical sub
 
  Further cloud data can be analyzed properly to predict failures or schedule maintenance of HV electrical equipment
 
-Implementation Strategy:
+## Implementation Strategy:
 
  GatewayHandlerApp present in Raspberry Pi starts 6 different threads which performs various tasks to achieve desired outcomes of the project
 
